@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: englearn
+    database_user: root
+    database_password: 8e0ba7d39ab0
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: fe8bf0503ac25a7a99ef844a9e2dbdd03337cc2f
+    database_path: null
